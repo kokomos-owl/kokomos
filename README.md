@@ -1,5 +1,5 @@
 # kokomos
-#### This page is a LIVE preliminary page in the kokomos repo outlining top-level 'patterns' for developing base_ and _service subdirectory files. It will update live and will be moved to another docs page on Github. It is here just to display some level of how we're considering modular, integrated development.
+This page is a LIVE preliminary page in the kokomos repo outlining top-level 'patterns' for developing base_ and _service subdirectory files. It will update live and will be moved to another docs page on Github. It is here just to display some level of how we're considering modular, integrated development.
 
 # Owl Preliminary Design Patterns
 
